@@ -1,1 +1,1 @@
-(Documentation labo 1)[https://google.com]
+- [Documentation labo 1](https://google.com)
