@@ -1,1 +1,1 @@
-- [Documentation labo 1]([https://google.com](https://github.com/Karitchi/administration-des-reseaux/wiki/Documentation-labo-1))
+- [Documentation labo 1](https://github.com/Karitchi/administration-des-reseaux/wiki/Documentation-labo-1)
